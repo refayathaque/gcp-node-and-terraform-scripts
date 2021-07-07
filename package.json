@@ -1,0 +1,22 @@
+{
+  "name": "gcp-node-and-terraform-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/refayathaque/gcp-node-and-terraform-scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/refayathaque/gcp-node-and-terraform-scripts/issues"
+  },
+  "homepage": "https://github.com/refayathaque/gcp-node-and-terraform-scripts#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^5.8.5"
+  }
+}
