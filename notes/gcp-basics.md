@@ -1,0 +1,4 @@
+### Projects
+
+- Any Google Cloud resources that you allocate and use must belong to a project. You can think of a project as the organizing entity for what you're building. A project is made up of the settings, permissions, and other metadata that describe your applications. Resources within a single project can work together easily, for example by communicating through an internal network, subject to the regions-and-zones rules. A project can't access another project's resources unless you use Shared VPC or VPC Network Peering.
+- When billing is enabled, each project is associated with one billing account. Multiple projects can have their resource usage billed to the same account.
